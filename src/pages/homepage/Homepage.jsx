@@ -1,12 +1,11 @@
 import React from "react";
+import Directory from "../../components/directory/directory"
 import "./Homepage.scss";
 
 const Homepage = () =>{
     return(
      <div className="homepage">
-         <div className="directory-menu">
-             
-         </div>
+         <Directory />
      </div>
     )
 }
