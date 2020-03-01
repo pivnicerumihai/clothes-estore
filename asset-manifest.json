@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/pivnicerumihai/clothes-estore/static/css/main.cb2c9274.chunk.css",
-    "main.js": "/pivnicerumihai/clothes-estore/static/js/main.18327c9d.chunk.js",
-    "main.js.map": "/pivnicerumihai/clothes-estore/static/js/main.18327c9d.chunk.js.map",
-    "runtime-main.js": "/pivnicerumihai/clothes-estore/static/js/runtime-main.ce4dc33a.js",
-    "runtime-main.js.map": "/pivnicerumihai/clothes-estore/static/js/runtime-main.ce4dc33a.js.map",
-    "static/js/2.9039e431.chunk.js": "/pivnicerumihai/clothes-estore/static/js/2.9039e431.chunk.js",
-    "static/js/2.9039e431.chunk.js.map": "/pivnicerumihai/clothes-estore/static/js/2.9039e431.chunk.js.map",
-    "index.html": "/pivnicerumihai/clothes-estore/index.html",
-    "precache-manifest.8e3d1825d84affae3beeae74ba9283ba.js": "/pivnicerumihai/clothes-estore/precache-manifest.8e3d1825d84affae3beeae74ba9283ba.js",
-    "service-worker.js": "/pivnicerumihai/clothes-estore/service-worker.js",
-    "static/css/main.cb2c9274.chunk.css.map": "/pivnicerumihai/clothes-estore/static/css/main.cb2c9274.chunk.css.map",
-    "static/js/2.9039e431.chunk.js.LICENSE": "/pivnicerumihai/clothes-estore/static/js/2.9039e431.chunk.js.LICENSE",
-    "static/media/crown.ed28accb.svg": "/pivnicerumihai/clothes-estore/static/media/crown.ed28accb.svg",
-    "static/media/shopping-bag.30f07071.svg": "/pivnicerumihai/clothes-estore/static/media/shopping-bag.30f07071.svg"
+    "main.css": "/clothes-estore/static/css/main.cb2c9274.chunk.css",
+    "main.js": "/clothes-estore/static/js/main.18327c9d.chunk.js",
+    "main.js.map": "/clothes-estore/static/js/main.18327c9d.chunk.js.map",
+    "runtime-main.js": "/clothes-estore/static/js/runtime-main.5c85c419.js",
+    "runtime-main.js.map": "/clothes-estore/static/js/runtime-main.5c85c419.js.map",
+    "static/js/2.f7f36521.chunk.js": "/clothes-estore/static/js/2.f7f36521.chunk.js",
+    "static/js/2.f7f36521.chunk.js.map": "/clothes-estore/static/js/2.f7f36521.chunk.js.map",
+    "index.html": "/clothes-estore/index.html",
+    "precache-manifest.1eb383197c71e21012e031120644b103.js": "/clothes-estore/precache-manifest.1eb383197c71e21012e031120644b103.js",
+    "service-worker.js": "/clothes-estore/service-worker.js",
+    "static/css/main.cb2c9274.chunk.css.map": "/clothes-estore/static/css/main.cb2c9274.chunk.css.map",
+    "static/js/2.f7f36521.chunk.js.LICENSE": "/clothes-estore/static/js/2.f7f36521.chunk.js.LICENSE",
+    "static/media/crown.ed28accb.svg": "/clothes-estore/static/media/crown.ed28accb.svg",
+    "static/media/shopping-bag.30f07071.svg": "/clothes-estore/static/media/shopping-bag.30f07071.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.ce4dc33a.js",
-    "static/js/2.9039e431.chunk.js",
+    "static/js/runtime-main.5c85c419.js",
+    "static/js/2.f7f36521.chunk.js",
     "static/css/main.cb2c9274.chunk.css",
     "static/js/main.18327c9d.chunk.js"
   ]
