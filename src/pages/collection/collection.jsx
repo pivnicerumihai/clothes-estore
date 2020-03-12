@@ -6,13 +6,11 @@ import { selectCollection } from "../../redux/shop/shop.selector"
 import CollectionItem from "../../components/collection-item/collection-item";
 
 import "./collection.scss";
-import { withRouter } from "react-router-dom";
 
 const CollectionPage = ({ collection, ...props }) => {
     const { title, items } = collection;
     return (
         <div className="collection-page">
-            <h2> test</h2>
             <h2 className="title">{title}</h2>
             <div className="items">
                 {
@@ -29,4 +27,4 @@ const mapStateToProps = (state, ownProps) => {
     }
 }
 
-export default withRouter(connect(mapStateToProps)(CollectionPage));
+export default connect(mapStateToProps)(CollectionPage);
